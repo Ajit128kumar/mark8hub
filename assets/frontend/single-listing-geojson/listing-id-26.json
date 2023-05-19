@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.279416337105",
+                    "26.452210392299"
+                ]
+            },
+            "properties": {
+                "id": "f80d3b937e742ca3c328f6ec4dc86b3f",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://www.mark8hub.qntminfo.com/general/raj-printers/26",
+                "url": "",
+                "name": "Raj Printers",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "Biratnagar 09, Sansarimaisthan, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

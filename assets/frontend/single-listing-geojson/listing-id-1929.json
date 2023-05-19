@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.277445084489",
+                    "26.446136897808"
+                ]
+            },
+            "properties": {
+                "id": "33fbd47cc4b8d88e45a450c7910a5da5",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://www.mark8hub.com/hotel/new-hotel-pacific/1929",
+                "url": "",
+                "name": "New Hotel Pacific",
+                "category": "hotel",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "Biratnagar 09, Dharan Road, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

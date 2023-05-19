@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.27933995276307",
+                    "26.451493051231928"
+                ]
+            },
+            "properties": {
+                "id": "866f599ebe25795060afad7e75d4b959",
+                "index": 0,
+                "isActive": true,
+                "logo": "2410ccbba9b49213bb70a49aa5236242.jpg",
+                "image": "2410ccbba9b49213bb70a49aa5236242.jpg",
+                "link": "https://www.mark8hub.com/general/pinnacle-studio-amp-graphics-hub/2805",
+                "url": "",
+                "name": "Pinnacle Studio &amp; Graphics Hub",
+                "category": "general",
+                "email": "pinnaclestudio453@gmail.com",
+                "stars": "0.0",
+                "phone": "9823320617",
+                "address": "Biratnagar-10, Morang, Nepal",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

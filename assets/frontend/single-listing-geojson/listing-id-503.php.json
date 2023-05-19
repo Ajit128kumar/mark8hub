@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.280165418577",
+                    "26.457442688498"
+                ]
+            },
+            "properties": {
+                "id": "ecf033efbabb69a0914b577fe3fb2373",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "https://mark8hub.com/shop/maa-durga-99-pasal/503",
+                "url": "",
+                "name": "Maa Durga 99 Pasal",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "Biratnagar 07, Main Road, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

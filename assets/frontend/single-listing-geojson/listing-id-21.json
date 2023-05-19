@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.279395494553",
+                    "26.452103770835"
+                ]
+            },
+            "properties": {
+                "id": "57f60032b90a4a5a610f850b19b9ecc4",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://www.mark8hub.qntminfo.com/shop/shanti-agro-traders/21",
+                "url": "",
+                "name": "Shanti  Agro Traders",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "9852027582 9802027582",
+                "address": "Biratnagar 09, Sansarimaisthan, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

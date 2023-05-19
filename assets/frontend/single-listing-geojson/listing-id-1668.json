@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.282575709579",
+                    "26.463985342792"
+                ]
+            },
+            "properties": {
+                "id": "17d10b60886ee25924a7b744fe1f5dfe",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://www.mark8hub.com/shop/mobile-garden/1668",
+                "url": "",
+                "name": "Mobile Garden",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "9812382333",
+                "address": "Biratnagar 02, Golchha Chowk, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

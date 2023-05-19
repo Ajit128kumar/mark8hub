@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.279385439937",
+                    "26.437732887357"
+                ]
+            },
+            "properties": {
+                "id": "bbc2a3d5149672caa19726067cea299a",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://mark8hub.com/shop/bhumika-chasma-ghar/1952",
+                "url": "",
+                "name": "Bhumika Chasma Ghar",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "Biratnagar 14, Dharan Road, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

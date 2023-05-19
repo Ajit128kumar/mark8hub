@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.279406524425",
+                    "26.451958786107"
+                ]
+            },
+            "properties": {
+                "id": "b7f9dbc76c1fbe77c3a2243153956bac",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://mark8hub.qntminfo.com/shop/new-nilsagar-electronics-amp-prasikshan-kendra/19",
+                "url": "",
+                "name": "New Nilsagar Electronics &amp; Prasikshan Kendra",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "Biratnagar 09, Sansarimaisthan, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.279433887081",
+                    "26.452163385619"
+                ]
+            },
+            "properties": {
+                "id": "9dff39cf72199c1d7ece1ebd40246f99",
+                "index": 1,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://mark8hub.qntminfo.com/shop/super-vision-electronics-amp-electricals/24",
+                "url": "",
+                "name": "Super Vision Electronics &amp; Electricals",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "9842028420",
+                "address": "Biratnagar 09, Sansarimaisthan, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

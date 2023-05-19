@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.27943295368",
+                    "26.452161464382"
+                ]
+            },
+            "properties": {
+                "id": "689f203d57f529ec3febbd0ee7d4fcaa",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://www.mark8hub.qntminfo.com/shop/shivani-biu-kendra/25",
+                "url": "",
+                "name": "Shivani Biu Kendra",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "Biratnagar 09, Sansarimaisthan, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

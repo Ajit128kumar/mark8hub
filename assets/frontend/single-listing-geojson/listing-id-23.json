@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.279422026656",
+                    "26.452078375771"
+                ]
+            },
+            "properties": {
+                "id": "877351542c170bc7bdab7bccda894e99",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://www.mark8hub.qntminfo.com/shop/subh-laxmi-mobile-centre/23",
+                "url": "",
+                "name": "Subh Laxmi Mobile Centre",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "9842408409 9814334555",
+                "address": "Biratnagar 09, Sansarimaisthan, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

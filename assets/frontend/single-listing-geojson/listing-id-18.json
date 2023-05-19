@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.279406767988",
+                    "26.451935252085"
+                ]
+            },
+            "properties": {
+                "id": "5caa5bcd31700aeb4d7c67bebd4e326d",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://mark8hub.qntminfo.com/shop/maha-laxmi-cosmetic-amp-gift-corner/18",
+                "url": "",
+                "name": "Maha laxmi Cosmetic &amp; Gift Corner",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "Biratnagar 09, Sansarimaisthan, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

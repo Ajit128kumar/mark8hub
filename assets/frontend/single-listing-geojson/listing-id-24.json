@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.279433887081",
+                    "26.452163385619"
+                ]
+            },
+            "properties": {
+                "id": "9dff39cf72199c1d7ece1ebd40246f99",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://www.mark8hub.qntminfo.com/shop/super-vision-electronics-amp-electricals/24",
+                "url": "",
+                "name": "Super Vision Electronics &amp; Electricals",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "9842028420",
+                "address": "Biratnagar 09, Sansarimaisthan, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

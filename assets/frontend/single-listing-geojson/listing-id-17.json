@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.279336508445",
+                    "26.451902112952"
+                ]
+            },
+            "properties": {
+                "id": "49c5dcf55aaa905f60c6b7b70355b66a",
+                "index": 0,
+                "isActive": true,
+                "logo": "thumbnail.png",
+                "image": "thumbnail.png",
+                "link": "http://www.mark8hub.qntminfo.com/general/sanbi-beauty-parlour/17",
+                "url": "",
+                "name": "Sanbi Beauty Parlour",
+                "category": "general",
+                "email": "",
+                "stars": "0.0",
+                "phone": "9807344656 9816373081",
+                "address": "Biratnagar 09, Sansarimaisthan, Morang",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
